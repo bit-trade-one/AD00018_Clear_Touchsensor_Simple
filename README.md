@@ -10,7 +10,7 @@ ITOを利用したセンサに比べ、低コストで静電容量タッチセ�
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/ad00018/)!
 
-## [マニュアル](https://github.com/bit-trade-one/AD00018_Clear_Touchsensor_Simple /blob/master/Manual/manual_1ch.pdf)
+## [マニュアル](https://github.com/bit-trade-one/AD00018_Clear_Touchsensor_Simple/blob/master/Manual/manual_1ch.pdf)
 
 ## 製品仕様
 
