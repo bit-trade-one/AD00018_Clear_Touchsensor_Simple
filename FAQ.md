@@ -22,7 +22,7 @@
 
 ### A.いいえ。本製品ではできません。
 感度調整機能は、透明シール型タッチスイッチのマルチタイプ  
-(ad00019 URL:https://github.com/bit-trade-one/AD00019_Clear_Touchswitch_multi)  
+(AD00019 URL:https://github.com/bit-trade-one/AD00019_Clear_Touchswitch_multi)  
 のみ可能です。  
 
 
