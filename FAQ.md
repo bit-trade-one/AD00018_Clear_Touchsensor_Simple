@@ -65,3 +65,14 @@
 ### A.ソフトウェアより、使用しない回路のキー割り当てを無効にすることができます。
 
 また、[こちら](https://btoshop.jp/products/pp00004)より1ch分の電極フィルムをご購入いただけます。
+
+
+---
+
+## Q.フィルムセンサの寸法を教えてください。
+
+### A.こちらに掲載しております。
+
+https://github.com/bit-trade-one/AD00018_Clear_Touchsensor_Simple/blob/master/Dimensions/Z0000138_%E9%9D%99%E9%9B%BBSW_1ch(Ver.3).pdf
+
+---
