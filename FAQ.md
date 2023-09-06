@@ -89,3 +89,9 @@ https://github.com/bit-trade-one/AD00018_Clear_Touchsensor_Simple/blob/master/Di
 ## Q.他のサイズ・長さのフィルムはあるか
 
 ### A.フィルムは付属品のみのサイズ展開となっております。
+
+---
+
+## Q.フィルムはカットできますか
+
+### A.恐れ入りますが、カット等の加工には対応しておりません。
